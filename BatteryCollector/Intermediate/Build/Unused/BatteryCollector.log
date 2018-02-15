@@ -1,0 +1,4 @@
+﻿  Creating makefile for hot reloading BatteryCollectorEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+EXEC : error : In D:\Unreal\Unreal_Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp: #include "GameFramework\Character.h" contains backslashes ('\'), please use forward slashes ('/') instead.
+D:\Microsoft Visual Studio 2017\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""D:\Program Files\Epic Games\UE_4.18\Engine\Build\BatchFiles\Build.bat" BatteryCollectorEditor Win64 Development "D:\Unreal\Unreal_Projects\BatteryCollector\BatteryCollector.uproject" -waitmutex" exited with code 5. Please verify that you have sufficient rights to run this command.

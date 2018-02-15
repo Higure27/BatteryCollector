@@ -1,0 +1,1381 @@
+﻿Log file open, 02/14/18 17:36:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BatteryCollector
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1427216476) SRandInit(1427216476).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.175240
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Binaries/Win64/UE4Editor-BatteryCollector-6587.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.15-00.36.55:502][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.15-00.36.55:502][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.15-00.36.55:510][  0]LogInit: Computer: DESKTOP-6S89NFO
+[2018.02.15-00.36.55:510][  0]LogInit: User: Kevan
+[2018.02.15-00.36.55:510][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.15-00.36.55:510][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2018.02.15-00.36.55:510][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.02.15-00.36.55:510][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.15-00.36.55:510][  0]LogMemory: Process Physical Memory: 274.86 MB used, 274.86 MB peak
+[2018.02.15-00.36.55:510][  0]LogMemory: Process Virtual Memory: 269.86 MB used, 269.86 MB peak
+[2018.02.15-00.36.55:510][  0]LogMemory: Physical Memory: 7065.71 MB used,  9271.50 MB free, 16337.21 MB total
+[2018.02.15-00.36.55:510][  0]LogMemory: Virtual Memory: 663.79 MB used,  9271.50 MB free, 134217728.00 MB total
+[2018.02.15-00.36.55:620][  0]LogInit: Using OS detected language (en-US).
+[2018.02.15-00.36.55:620][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.15-00.36.55:623][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.15-00.36.56:024][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.15-00.36.56:293][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.15-00.36.56:334][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.02.15-00.36.56:334][  0]LogD3D11RHI:       3019/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.15-00.36.56:336][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.15-00.36.56:336][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.15-00.36.56:336][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.15-00.36.56:343][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.15-00.36.56:343][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.15-00.36.56:343][  0]LogWindows: EnumDisplayDevices:
+[2018.02.15-00.36.56:343][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.02.15-00.36.56:343][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.15-00.36.56:343][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.15-00.36.56:344][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.15-00.36.56:344][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.15-00.36.56:344][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.02.15-00.36.56:344][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.15-00.36.56:344][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.15-00.36.56:344][  0]LogRHI: Texture pool is 2113 MB (70% of 3019 MB)
+[2018.02.15-00.36.56:366][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.15-00.36.56:378][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.15-00.36.56:425][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Unreal/Unreal_Projects/BatteryCollector/Intermediate/Shaders/WorkingDirectory/16284/).
+[2018.02.15-00.36.56:425][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kevan/AppData/Local/Temp/UnrealShaderWorkingDir/974D21DB445008DEFF0A63B9A8AF527D/'.
+[2018.02.15-00.36.56:425][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.15-00.36.57:295][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.15-00.36.57:345][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.15-00.36.57:388][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.15-00.36.57:429][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.15-00.36.57:469][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.15-00.36.57:520][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.15-00.36.57:561][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.15-00.36.57:603][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.15-00.36.57:637][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.15-00.36.57:677][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.15-00.36.57:716][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.15-00.36.57:753][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.15-00.36.57:792][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.15-00.36.57:830][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.15-00.36.57:910][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.15-00.36.57:910][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.15-00.36.57:967][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.15-00.36.57:996][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.15-00.36.58:091][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.15-00.36.58:113][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.15-00.36.58:153][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.15-00.36.58:193][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.15-00.36.58:232][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.15-00.36.58:270][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.15-00.36.58:270][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.15-00.36.58:639][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.15-00.36.58:698][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/Kevan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.15-00.36.58:698][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kevan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.15-00.36.58:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal/Unreal_Projects/BatteryCollector/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.15-00.36.58:699][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.15-00.36.58:699][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal/Unreal_Projects/BatteryCollector/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.15-00.36.58:699][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.15-00.36.58:716][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.15-00.36.58:728][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kevan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.15-00.36.58:739][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.15-00.36.58:739][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.15-00.36.58:740][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.15-00.36.58:740][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.15-00.36.59:091][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.15-00.36.59:375][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.15-00.36.59:406][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.15-00.36.59:406][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.15-00.36.59:406][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.15-00.36.59:406][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.15-00.36.59:406][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.15-00.36.59:436][  0]LogNetVersion: BatteryCollector , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1810626766)
+[2018.02.15-00.36.59:596][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.02.15-00.37.00:050][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.057714 seconds
+[2018.02.15-00.37.00:055][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.15-00.37.00:055][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.15-00.37.00:055][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.15-00.37.00:091][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.15-00.37.02:487][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.15-00.37.02:533][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.15-00.37.03:145][  0]LogClass: constructed
+[2018.02.15-00.37.03:333][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.15-00.37.03:758][  0]SourceControl: Source control is disabled
+[2018.02.15-00.37.03:758][  0]SourceControl: Source control is disabled
+[2018.02.15-00.37.03:804][  0]SourceControl: Source control is disabled
+[2018.02.15-00.37.03:850][  0]SourceControl: Source control is disabled
+[2018.02.15-00.37.04:613][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.15-00.37.04:864][  0]LogOcInput: OculusInput pre-init called
+[2018.02.15-00.37.05:093][  0]LogEngine: Initializing Engine...
+[2018.02.15-00.37.05:096][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.15-00.37.05:293][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.15-00.37.05:293][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.15-00.37.05:404][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.15-00.37.05:414][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.15-00.37.05:452][  0]LogInit: FAudioDevice initialized.
+[2018.02.15-00.37.05:569][  0]LogDerivedDataCache: Saved boot cache 0.12s 79MB C:/Users/Kevan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.15-00.37.05:577][  0]LogInit: Texture streaming: Enabled
+[2018.02.15-00.37.05:647][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.15-00.37.05:749][  0]LogInit: Transaction tracking system initialized
+[2018.02.15-00.37.06:057][  0]BlueprintLog: New page: Editor Load
+[2018.02.15-00.37.07:255][  0]LocalizationService: Localization service is disabled
+[2018.02.15-00.37.08:676][  0]LogConsoleResponse: Display: 
+[2018.02.15-00.37.09:755][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.15-00.37.09:755][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.15-00.37.09:766][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_Projects/BatteryCollector/Content/' took 0.02s
+[2018.02.15-00.37.09:766][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.15-00.37.11:883][  0]SourceControl: Source control is disabled
+[2018.02.15-00.37.11:936][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/Maps/CollectionLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.15-00.37.11:945][  0]LightingResults: New page: Lighting Build
+[2018.02.15-00.37.12:154][  0]MapCheck: New page: Map Check
+[2018.02.15-00.37.12:154][  0]LightingResults: New page: Lighting Build
+[2018.02.15-00.37.14:316][  0]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.02.15-00.37.14:707][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.15-00.37.14:834][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.15-00.37.14:929][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.619ms to complete.
+[2018.02.15-00.37.14:929][  0]LogFileHelpers: Loading map 'CollectionLevel' took 3.015
+[2018.02.15-00.37.16:330][  0]LogCollectionManager: Loaded 0 collections in 0.002117 seconds
+[2018.02.15-00.37.16:645][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_Projects/BatteryCollector/Saved/Collections/' took 0.01s
+[2018.02.15-00.37.16:645][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_Projects/BatteryCollector/Content/Developers/Kevan/Collections/' took 0.01s
+[2018.02.15-00.37.16:645][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_Projects/BatteryCollector/Content/Collections/' took 0.01s
+[2018.02.15-00.37.16:645][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.15-00.37.16:718][  0]LogContentBrowser: Native class hierarchy populated in 0.0593 seconds. Added 2368 classes and 521 folders.
+[2018.02.15-00.37.16:848][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.02.15-00.37.18:567][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.02.15-00.37.18:822][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.02.15-00.37.19:500][  0]LogSlate: Took 0.015359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.15-00.37.19:518][  0]LogSlate: Took 0.007448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.15-00.37.19:572][  0]LogSlate: Took 0.015132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.15-00.37.19:967][  0]LogRenderer: Reallocating scene render targets to support 900x352 Format 10 NumSamples 1 (Frame:1).
+[2018.02.15-00.37.20:768][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.02.15-00.37.20:768][  0]LogLoad: (Engine Initialization) Total time: 27.99 seconds
+[2018.02.15-00.37.20:768][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.15-00.37.20:768][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.15-00.37.20:829][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.15-00.37.20:907][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.15-00.37.21:048][  0]LogSlate: Took 0.008918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.15-00.37.21:146][  1]LogAssetRegistry: Asset discovery search completed in 21.5727 seconds
+[2018.02.15-00.37.21:157][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.15-00.37.21:157][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2018.02.15-00.37.21:825][ 66]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.15-00.37.25:495][482]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.15-00.37.26:224][482]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.02.15-00.37.27:821][482]LogSlate: Took 0.017454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.15-00.37.28:782][483]LogSlate: Took 0.015369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.15-00.38.59:515][868]LogEditorViewport: Clicking on Actor (LMB): BP_DemoRoom_C (BP_DemoRoom)
+[2018.02.15-00.39.10:387][104]LogEditorActor: Deleted Actor: SpawnVolume
+[2018.02.15-00.39.10:430][104]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2018.02.15-00.41.17:134][958]LogEditorViewport: Clicking on Actor (LMB): BP_DemoRoom_C (BP_DemoRoom)
+[2018.02.15-00.41.27:360][149]LogEditorViewport: Clicking on Actor (LMB): SpawnVolume (SpawnVolume3)
+[2018.02.15-00.42.13:396][629]MapCheck: New page: Map Check
+[2018.02.15-00.42.13:710][629]LightingResults: New page: Lighting Build - Feb 14, 2018, 10:42:13 AM
+[2018.02.15-00.42.13:825][629]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.15-00.42.13:934][629]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.15-00.42.13:950][629]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.15-00.42.15:014][629]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.15-00.42.15:015][629]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16284
+[2018.02.15-00.42.17:601][629]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.02.15-00.42.17:601][629]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.15-00.42.17:601][629]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.15-00.42.17:601][629]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.15-00.42.17:602][629]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.15-00.42.17:602][629]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.15-00.42.17:881][629]LogEditorBuildUtils: Build time 0:04
+[2018.02.15-00.42.27:607][666]Job is a success!
+[2018.02.15-00.42.28:018][667]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.041s
+[2018.02.15-00.42.28:018][667]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.02.15-00.42.28:018][667]LogVolumetricLightmapImport:      BrickData 505x5x5 = 0.3Mb
+[2018.02.15-00.42.28:018][667]LogVolumetricLightmapImport:      Bricks at Level
+[2018.02.15-00.42.28:018][667]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2018.02.15-00.42.28:018][667]LogVolumetricLightmapImport:          1: 4.0% covering 6.3% of volume
+[2018.02.15-00.42.28:018][667]LogVolumetricLightmapImport:          2: 95.0% covering 2.3% of volume
+[2018.02.15-00.42.29:342][667]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.02.15-00.42.29:342][667]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.02.15-00.42.29:342][667]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.02.15-00.42.29:343][667]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.02.15-00.42.29:343][667]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 128X128)
+[2018.02.15-00.42.29:343][667]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 128X128)
+[2018.02.15-00.42.29:343][667]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.02.15-00.42.29:343][667]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.02.15-00.42.29:543][667]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2018.02.15-00.42.29:543][667]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 128X32)
+[2018.02.15-00.42.29:581][667]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2018.02.15-00.42.34:260][667]Lightmass on DESKTOP-6S89NFO: 10.1 sec total, 127 ms importing, 42 ms setup, 1.56 sec photons, 8.29 sec processing, 0 ms extra exporting [21/21 mappings]. Threads: 57.9 sec total, 31.8 sec processing.
+[2018.02.15-00.42.34:317][667]LogStaticLightingSystem: Illumination: 20.2 sec (1.21 sec encoding lightmaps, 236 ms encoding shadowmaps)
+[2018.02.15-00.42.34:317][667]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (4.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2018.02.15-00.42.34:317][667]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.02.15-00.42.34:613][667]DumpUnbuiltLightIteractions
+[2018.02.15-00.42.34:613][667]Lights with unbuilt interactions: 0
+[2018.02.15-00.42.34:613][667]
+[2018.02.15-00.42.34:613][667]Primitives with unbuilt interactions: 0
+[2018.02.15-00.42.34:621][668]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.15-00.42.34:622][668]MapCheck: New page: CollectionLevel - Feb 14, 2018, 10:42:34 AM
+[2018.02.15-00.42.34:696][668]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.251ms to complete.
+[2018.02.15-00.43.25:238][137]LogRenderer: Reallocating scene render targets to support 912x404 Format 10 NumSamples 1 (Frame:1).
+[2018.02.15-00.43.30:409][720]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.15-00.43.30:539][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.15-00.43.30:555][720]PIE: New page: PIE session: CollectionLevel (Feb 14, 2018, 10:43:30 AM)
+[2018.02.15-00.43.30:555][720]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.02.15-00.43.30:580][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024498s)
+[2018.02.15-00.43.30:581][720]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.02.15-00.43.30:581][720]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2018.02.15-00.43.30:581][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.026039s)
+[2018.02.15-00.43.30:601][720]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.15-00.43.30:636][720]LogInit: FAudioDevice initialized.
+[2018.02.15-00.43.30:808][720]LogClass: constructed
+[2018.02.15-00.43.30:809][720]LogClass: constructed
+[2018.02.15-00.43.30:810][720]LogClass: constructed
+[2018.02.15-00.43.30:816][720]LogLoad: Game class is 'GameMode_BP_C'
+[2018.02.15-00.43.30:816][720]LogClass: constructed
+[2018.02.15-00.43.30:825][720]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2018.02.14-17.43.30
+[2018.02.15-00.43.30:838][720]LogWorld: Bringing up level for play took: 0.013868
+[2018.02.15-00.43.30:926][720]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2018.02.15-00.43.30:990][720]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 1.446
+[2018.02.15-00.43.39:973][764]LogClass: about to collect
+[2018.02.15-00.43.40:018][764]LogClass: collected
+[2018.02.15-00.43.40:018][764]LogClass: about to collect
+[2018.02.15-00.43.40:018][764]LogClass: collected
+[2018.02.15-00.43.40:018][764]LogClass: about to collect
+[2018.02.15-00.43.40:018][764]LogClass: collected
+[2018.02.15-00.43.42:323][ 33]LogClass: about to collect
+[2018.02.15-00.43.42:323][ 33]LogClass: collected
+[2018.02.15-00.43.43:316][152]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.43.45:344][394]LogClass: about to collect
+[2018.02.15-00.43.45:345][394]LogClass: collected
+[2018.02.15-00.43.46:336][513]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.43.50:011][947]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.15-00.43.50:025][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.15-00.43.50:025][947]PIE: New page: PIE session: CollectionLevel (Feb 14, 2018, 10:43:50 AM)
+[2018.02.15-00.43.50:025][947]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.02.15-00.43.50:028][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002141s)
+[2018.02.15-00.43.50:028][947]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.02.15-00.43.50:029][947]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2018.02.15-00.43.50:029][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003461s)
+[2018.02.15-00.43.50:047][947]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.15-00.43.50:081][947]LogInit: FAudioDevice initialized.
+[2018.02.15-00.43.50:139][947]LogLoad: Game class is 'GameMode_BP_C'
+[2018.02.15-00.43.50:139][947]LogClass: constructed
+[2018.02.15-00.43.50:141][947]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2018.02.14-17.43.50
+[2018.02.15-00.43.50:142][947]LogWorld: Bringing up level for play took: 0.001295
+[2018.02.15-00.43.50:144][947]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.599
+[2018.02.15-00.43.54:004][397]LogClass: about to collect
+[2018.02.15-00.43.54:004][397]LogClass: collected
+[2018.02.15-00.43.54:996][516]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.43.55:129][532]LogClass: about to collect
+[2018.02.15-00.43.55:129][532]LogClass: collected
+[2018.02.15-00.43.56:121][651]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.43.57:213][782]LogClass: about to collect
+[2018.02.15-00.43.57:213][782]LogClass: collected
+[2018.02.15-00.43.58:205][901]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.43.58:313][914]LogClass: about to collect
+[2018.02.15-00.43.58:313][914]LogClass: collected
+[2018.02.15-00.43.59:305][ 33]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.44.00:113][130]LogClass: about to collect
+[2018.02.15-00.44.00:113][130]LogClass: collected
+[2018.02.15-00.44.00:755][207]LogClass: about to collect
+[2018.02.15-00.44.00:755][207]LogClass: collected
+[2018.02.15-00.44.01:105][249]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.44.01:747][326]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.44.02:222][383]LogClass: about to collect
+[2018.02.15-00.44.02:222][383]LogClass: collected
+[2018.02.15-00.44.02:222][383]LogClass: about to collect
+[2018.02.15-00.44.02:222][383]LogClass: collected
+[2018.02.15-00.44.03:214][502]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.44.03:214][502]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.44.05:255][747]LogClass: about to collect
+[2018.02.15-00.44.05:255][747]LogClass: collected
+[2018.02.15-00.44.06:222][863]LogClass: about to collect
+[2018.02.15-00.44.06:222][863]LogClass: collected
+[2018.02.15-00.44.06:222][863]LogClass: about to collect
+[2018.02.15-00.44.06:222][863]LogClass: collected
+[2018.02.15-00.44.06:222][863]LogClass: about to collect
+[2018.02.15-00.44.06:222][863]LogClass: collected
+[2018.02.15-00.44.06:247][866]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.44.07:214][982]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.44.07:214][982]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.44.07:214][982]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.45.05:725][623]LogClass: constructed
+[2018.02.15-00.45.56:379][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/GameMode_BP" FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/GameMode_BP.uasset" SILENT=true
+[2018.02.15-00.45.56:412][278]LogSavePackage: Save=19.99ms
+[2018.02.15-00.45.56:412][278]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/GameMode_BP72D8A56D4DE4BEDFD62CDC9D74F2A293.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/GameMode_BP.uasset'
+[2018.02.15-00.45.56:415][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/GameMode_BP.uasset
+[2018.02.15-00.45.57:088][358]BlueprintLog: New page: Compile GameMode_BP
+[2018.02.15-00.45.57:090][358]LogClass: constructed
+[2018.02.15-00.45.57:091][358]LogClass: constructed
+[2018.02.15-00.45.57:092][358]LogClass: constructed
+[2018.02.15-00.45.58:193][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/GameMode_BP" FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/GameMode_BP.uasset" SILENT=true
+[2018.02.15-00.45.58:201][459]LogSavePackage: Save=5.67ms
+[2018.02.15-00.45.58:201][459]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/GameMode_BPAF604AC146A13E01D577409AE87B7634.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/GameMode_BP.uasset'
+[2018.02.15-00.45.58:202][459]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/GameMode_BP.uasset
+[2018.02.15-00.46.00:971][789]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.15-00.46.00:986][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.15-00.46.00:986][789]PIE: New page: PIE session: CollectionLevel (Feb 14, 2018, 10:46:00 AM)
+[2018.02.15-00.46.00:986][789]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.02.15-00.46.00:989][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002310s)
+[2018.02.15-00.46.00:989][789]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.02.15-00.46.00:990][789]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2018.02.15-00.46.00:990][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003636s)
+[2018.02.15-00.46.01:009][789]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.15-00.46.01:043][789]LogInit: FAudioDevice initialized.
+[2018.02.15-00.46.01:073][789]LogLoad: Game class is 'GameMode_BP_C'
+[2018.02.15-00.46.01:073][789]LogClass: constructed
+[2018.02.15-00.46.01:075][789]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2018.02.14-17.46.01
+[2018.02.15-00.46.01:076][789]LogWorld: Bringing up level for play took: 0.001427
+[2018.02.15-00.46.01:078][789]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.467
+[2018.02.15-00.46.06:445][420]LogClass: about to collect
+[2018.02.15-00.46.06:445][420]LogClass: collected
+[2018.02.15-00.46.06:445][420]LogClass: about to collect
+[2018.02.15-00.46.06:445][420]LogClass: collected
+[2018.02.15-00.46.07:438][539]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.07:438][539]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.07:512][548]LogClass: about to collect
+[2018.02.15-00.46.07:512][548]LogClass: collected
+[2018.02.15-00.46.08:504][667]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.09:037][731]LogClass: about to collect
+[2018.02.15-00.46.09:037][731]LogClass: collected
+[2018.02.15-00.46.09:037][731]LogClass: about to collect
+[2018.02.15-00.46.09:037][731]LogClass: collected
+[2018.02.15-00.46.10:030][850]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.10:030][850]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.15:496][506]LogClass: about to collect
+[2018.02.15-00.46.15:496][506]LogClass: collected
+[2018.02.15-00.46.15:496][506]LogClass: about to collect
+[2018.02.15-00.46.15:496][506]LogClass: collected
+[2018.02.15-00.46.16:488][625]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.16:488][625]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.17:238][715]LogClass: about to collect
+[2018.02.15-00.46.17:238][715]LogClass: collected
+[2018.02.15-00.46.18:230][834]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.19:167][945]LogClass: about to collect
+[2018.02.15-00.46.19:168][945]LogClass: collected
+[2018.02.15-00.46.20:160][ 64]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.21:634][241]LogClass: about to collect
+[2018.02.15-00.46.21:634][241]LogClass: collected
+[2018.02.15-00.46.22:627][360]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.23:084][415]LogClass: about to collect
+[2018.02.15-00.46.23:084][415]LogClass: collected
+[2018.02.15-00.46.24:076][534]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.24:293][560]LogClass: about to collect
+[2018.02.15-00.46.24:293][560]LogClass: collected
+[2018.02.15-00.46.24:293][560]LogClass: about to collect
+[2018.02.15-00.46.24:293][560]LogClass: collected
+[2018.02.15-00.46.25:285][679]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.25:285][679]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.27:493][944]LogClass: about to collect
+[2018.02.15-00.46.27:493][944]LogClass: collected
+[2018.02.15-00.46.27:818][983]LogClass: about to collect
+[2018.02.15-00.46.27:818][983]LogClass: collected
+[2018.02.15-00.46.28:485][ 63]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.28:810][102]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.29:435][177]LogClass: about to collect
+[2018.02.15-00.46.29:435][177]LogClass: collected
+[2018.02.15-00.46.30:427][296]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.31:043][370]LogClass: about to collect
+[2018.02.15-00.46.31:043][370]LogClass: collected
+[2018.02.15-00.46.32:035][489]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.32:151][503]LogClass: about to collect
+[2018.02.15-00.46.32:152][503]LogClass: collected
+[2018.02.15-00.46.33:144][622]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.34:377][770]LogClass: about to collect
+[2018.02.15-00.46.34:377][770]LogClass: collected
+[2018.02.15-00.46.34:377][770]LogClass: about to collect
+[2018.02.15-00.46.34:377][770]LogClass: collected
+[2018.02.15-00.46.35:369][889]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.35:369][889]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.46.37:895][191]LogClass: about to collect
+[2018.02.15-00.46.37:895][191]LogClass: collected
+[2018.02.15-00.46.38:887][310]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.03:199][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BatteryHUD" FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/BatteryHUD.uasset" SILENT=true
+[2018.02.15-00.49.03:231][690]LogSavePackage: Save=27.91ms
+[2018.02.15-00.49.03:231][690]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/BatteryHUDA89555FD46DB551564C992AF16B353C6.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/BatteryHUD.uasset'
+[2018.02.15-00.49.03:234][690]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/BatteryHUD.uasset
+[2018.02.15-00.49.03:984][741]BlueprintLog: New page: Compile BatteryHUD
+[2018.02.15-00.49.09:296][163]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.15-00.49.09:313][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.15-00.49.09:313][163]PIE: New page: PIE session: CollectionLevel (Feb 14, 2018, 10:49:09 AM)
+[2018.02.15-00.49.09:313][163]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.02.15-00.49.09:315][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002475s)
+[2018.02.15-00.49.09:316][163]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.02.15-00.49.09:316][163]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.02.15-00.49.09:317][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003727s)
+[2018.02.15-00.49.09:338][163]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.15-00.49.09:371][163]LogInit: FAudioDevice initialized.
+[2018.02.15-00.49.09:403][163]LogLoad: Game class is 'GameMode_BP_C'
+[2018.02.15-00.49.09:403][163]LogClass: constructed
+[2018.02.15-00.49.09:405][163]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2018.02.14-17.49.09
+[2018.02.15-00.49.09:405][163]LogWorld: Bringing up level for play took: 0.001222
+[2018.02.15-00.49.09:408][163]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.137
+[2018.02.15-00.49.14:762][792]LogClass: about to collect
+[2018.02.15-00.49.14:763][792]LogClass: collected
+[2018.02.15-00.49.15:754][911]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.15:904][929]LogClass: about to collect
+[2018.02.15-00.49.15:904][929]LogClass: collected
+[2018.02.15-00.49.15:904][929]LogClass: about to collect
+[2018.02.15-00.49.15:904][929]LogClass: collected
+[2018.02.15-00.49.15:904][929]LogClass: about to collect
+[2018.02.15-00.49.15:904][929]LogClass: collected
+[2018.02.15-00.49.16:896][ 48]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.16:896][ 48]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.16:896][ 48]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.17:704][145]LogClass: about to collect
+[2018.02.15-00.49.17:704][145]LogClass: collected
+[2018.02.15-00.49.18:696][264]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.19:855][403]LogClass: about to collect
+[2018.02.15-00.49.19:855][403]LogClass: collected
+[2018.02.15-00.49.19:855][403]LogClass: about to collect
+[2018.02.15-00.49.19:855][403]LogClass: collected
+[2018.02.15-00.49.20:846][522]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.20:847][522]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.21:438][593]LogClass: about to collect
+[2018.02.15-00.49.21:438][593]LogClass: collected
+[2018.02.15-00.49.22:430][712]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.27:713][346]LogClass: about to collect
+[2018.02.15-00.49.27:713][346]LogClass: collected
+[2018.02.15-00.49.28:705][465]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.29:480][558]LogClass: about to collect
+[2018.02.15-00.49.29:480][558]LogClass: collected
+[2018.02.15-00.49.29:480][558]LogClass: about to collect
+[2018.02.15-00.49.29:480][558]LogClass: collected
+[2018.02.15-00.49.30:472][677]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.30:472][677]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.30:847][722]LogClass: about to collect
+[2018.02.15-00.49.30:847][722]LogClass: collected
+[2018.02.15-00.49.30:847][722]LogClass: about to collect
+[2018.02.15-00.49.30:847][722]LogClass: collected
+[2018.02.15-00.49.31:840][841]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.31:840][841]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.32:722][947]LogClass: about to collect
+[2018.02.15-00.49.32:723][947]LogClass: collected
+[2018.02.15-00.49.32:723][947]LogClass: about to collect
+[2018.02.15-00.49.32:723][947]LogClass: collected
+[2018.02.15-00.49.33:714][ 66]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.33:714][ 66]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.46:007][541]LogClass: about to collect
+[2018.02.15-00.49.46:007][541]LogClass: collected
+[2018.02.15-00.49.46:007][541]LogClass: about to collect
+[2018.02.15-00.49.46:007][541]LogClass: collected
+[2018.02.15-00.49.46:007][541]LogClass: about to collect
+[2018.02.15-00.49.46:007][541]LogClass: collected
+[2018.02.15-00.49.46:007][541]LogClass: about to collect
+[2018.02.15-00.49.46:007][541]LogClass: collected
+[2018.02.15-00.49.46:007][541]LogClass: about to collect
+[2018.02.15-00.49.46:007][541]LogClass: collected
+[2018.02.15-00.49.46:999][660]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.46:999][660]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.46:999][660]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.46:999][660]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.46:999][660]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.47:107][673]LogClass: about to collect
+[2018.02.15-00.49.47:107][673]LogClass: collected
+[2018.02.15-00.49.47:107][673]LogClass: about to collect
+[2018.02.15-00.49.47:107][673]LogClass: collected
+[2018.02.15-00.49.47:107][673]LogClass: about to collect
+[2018.02.15-00.49.47:107][673]LogClass: collected
+[2018.02.15-00.49.48:099][792]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.48:099][792]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.48:099][792]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.48:515][842]LogClass: about to collect
+[2018.02.15-00.49.48:515][842]LogClass: collected
+[2018.02.15-00.49.49:512][960]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.50:745][108]LogClass: about to collect
+[2018.02.15-00.49.50:746][108]LogClass: collected
+[2018.02.15-00.49.51:738][227]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.52:771][351]LogClass: about to collect
+[2018.02.15-00.49.52:771][351]LogClass: collected
+[2018.02.15-00.49.53:763][470]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.53:904][487]LogClass: about to collect
+[2018.02.15-00.49.53:904][487]LogClass: collected
+[2018.02.15-00.49.54:897][606]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.57:455][913]LogClass: about to collect
+[2018.02.15-00.49.57:455][913]LogClass: collected
+[2018.02.15-00.49.58:447][ 32]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.49.58:996][ 98]LogClass: about to collect
+[2018.02.15-00.49.58:996][ 98]LogClass: collected
+[2018.02.15-00.49.59:988][217]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.00:013][220]LogClass: about to collect
+[2018.02.15-00.50.00:013][220]LogClass: collected
+[2018.02.15-00.50.00:013][220]LogClass: about to collect
+[2018.02.15-00.50.00:013][220]LogClass: collected
+[2018.02.15-00.50.01:005][339]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.01:005][339]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.01:296][374]LogClass: about to collect
+[2018.02.15-00.50.01:296][374]LogClass: collected
+[2018.02.15-00.50.02:289][493]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.03:071][587]LogClass: about to collect
+[2018.02.15-00.50.03:072][587]LogClass: collected
+[2018.02.15-00.50.03:072][587]LogClass: about to collect
+[2018.02.15-00.50.03:072][587]LogClass: collected
+[2018.02.15-00.50.04:064][706]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.04:064][706]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.05:614][892]LogClass: about to collect
+[2018.02.15-00.50.05:614][892]LogClass: collected
+[2018.02.15-00.50.06:606][ 11]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.08:014][180]LogClass: about to collect
+[2018.02.15-00.50.08:014][180]LogClass: collected
+[2018.02.15-00.50.08:014][180]LogClass: about to collect
+[2018.02.15-00.50.08:014][180]LogClass: collected
+[2018.02.15-00.50.09:006][299]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.09:006][299]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.10:330][458]LogClass: about to collect
+[2018.02.15-00.50.10:330][458]LogClass: collected
+[2018.02.15-00.50.10:330][458]LogClass: about to collect
+[2018.02.15-00.50.10:331][458]LogClass: collected
+[2018.02.15-00.50.10:331][458]LogClass: about to collect
+[2018.02.15-00.50.10:331][458]LogClass: collected
+[2018.02.15-00.50.11:323][577]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.11:323][577]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.11:323][577]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.12:865][759]LogActor: Warning: Battery_BP_C_9 is outside the world bounds!
+[2018.02.15-00.50.13:097][787]LogClass: about to collect
+[2018.02.15-00.50.13:097][787]LogClass: collected
+[2018.02.15-00.50.14:088][906]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.14:554][962]LogClass: about to collect
+[2018.02.15-00.50.14:554][962]LogClass: collected
+[2018.02.15-00.50.14:554][962]LogClass: about to collect
+[2018.02.15-00.50.14:554][962]LogClass: collected
+[2018.02.15-00.50.15:546][ 81]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.15:547][ 81]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.15:829][115]LogClass: about to collect
+[2018.02.15-00.50.15:829][115]LogClass: collected
+[2018.02.15-00.50.16:822][233]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.17:279][288]LogClass: about to collect
+[2018.02.15-00.50.17:279][288]LogClass: collected
+[2018.02.15-00.50.17:279][288]LogClass: about to collect
+[2018.02.15-00.50.17:279][288]LogClass: collected
+[2018.02.15-00.50.17:279][288]LogClass: about to collect
+[2018.02.15-00.50.17:280][288]LogClass: collected
+[2018.02.15-00.50.18:271][407]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.18:272][407]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.18:272][407]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.21:238][763]LogClass: about to collect
+[2018.02.15-00.50.21:238][763]LogClass: collected
+[2018.02.15-00.50.22:231][882]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.22:539][919]LogClass: about to collect
+[2018.02.15-00.50.22:539][919]LogClass: collected
+[2018.02.15-00.50.23:531][ 38]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.23:930][ 86]LogClass: about to collect
+[2018.02.15-00.50.23:930][ 86]LogClass: collected
+[2018.02.15-00.50.23:930][ 86]LogClass: about to collect
+[2018.02.15-00.50.23:930][ 86]LogClass: collected
+[2018.02.15-00.50.23:930][ 86]LogClass: about to collect
+[2018.02.15-00.50.23:931][ 86]LogClass: collected
+[2018.02.15-00.50.24:756][185]LogClass: about to collect
+[2018.02.15-00.50.24:756][185]LogClass: collected
+[2018.02.15-00.50.24:923][205]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.24:923][205]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.24:923][205]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.25:389][261]LogClass: about to collect
+[2018.02.15-00.50.25:389][261]LogClass: collected
+[2018.02.15-00.50.25:748][304]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.26:381][380]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.29:839][795]LogClass: about to collect
+[2018.02.15-00.50.29:839][795]LogClass: collected
+[2018.02.15-00.50.29:839][795]LogClass: about to collect
+[2018.02.15-00.50.29:839][795]LogClass: collected
+[2018.02.15-00.50.30:832][914]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.30:832][914]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.33:640][251]LogClass: about to collect
+[2018.02.15-00.50.33:640][251]LogClass: collected
+[2018.02.15-00.50.34:632][370]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.36:798][630]LogClass: about to collect
+[2018.02.15-00.50.36:798][630]LogClass: collected
+[2018.02.15-00.50.37:791][749]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.38:357][817]LogClass: about to collect
+[2018.02.15-00.50.38:357][817]LogClass: collected
+[2018.02.15-00.50.38:357][817]LogClass: about to collect
+[2018.02.15-00.50.38:357][817]LogClass: collected
+[2018.02.15-00.50.39:240][923]LogClass: about to collect
+[2018.02.15-00.50.39:240][923]LogClass: collected
+[2018.02.15-00.50.39:240][923]LogClass: about to collect
+[2018.02.15-00.50.39:241][923]LogClass: collected
+[2018.02.15-00.50.39:349][936]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.39:349][936]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.40:233][ 42]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.40:233][ 42]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.41:207][159]LogClass: about to collect
+[2018.02.15-00.50.41:207][159]LogClass: collected
+[2018.02.15-00.50.42:200][278]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.42:632][330]LogClass: about to collect
+[2018.02.15-00.50.42:632][330]LogClass: collected
+[2018.02.15-00.50.42:632][330]LogClass: about to collect
+[2018.02.15-00.50.42:632][330]LogClass: collected
+[2018.02.15-00.50.43:625][449]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.43:625][449]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.43:991][493]LogClass: about to collect
+[2018.02.15-00.50.43:991][493]LogClass: collected
+[2018.02.15-00.50.44:983][612]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.45:274][647]LogClass: about to collect
+[2018.02.15-00.50.45:274][647]LogClass: collected
+[2018.02.15-00.50.46:041][739]LogClass: about to collect
+[2018.02.15-00.50.46:041][739]LogClass: collected
+[2018.02.15-00.50.46:266][766]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.50.47:034][858]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.51.22:073][178]LogSavePackage: Save=136.90ms
+[2018.02.15-00.51.22:073][178]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/CollectionLevel_Auto1AD737046405026A9216867AEDC7F60C5.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto1.umap'
+[2018.02.15-00.51.22:074][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto1.umap
+[2018.02.15-00.51.22:097][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CollectionLevel' took 0.221
+[2018.02.15-00.51.22:097][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.221
+[2018.02.15-00.51.22:100][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/CollectionLevel_BuiltData] ([1] browsable assets)...
+[2018.02.15-00.51.22:100][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/CollectionLevel_BuiltData]
+[2018.02.15-00.51.22:270][178]LogSavePackage: Save=28.84ms
+[2018.02.15-00.51.22:270][178]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/CollectionLevel_BuiltData_Auto1CF189CB8452FC8ECDA2FFCB5B835097C.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_BuiltData_Auto1.uasset'
+[2018.02.15-00.51.22:281][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_BuiltData_Auto1.uasset
+[2018.02.15-00.51.22:282][178]LogFileHelpers: Auto-saving content packages took 0.183
+[2018.02.15-00.52.16:275][118]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.15-00.52.27:989][473]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0011 seconds. Added 2 classes and 2 folders.
+[2018.02.15-00.55.51:371][ 83]LogSavePackage: Save=23.70ms
+[2018.02.15-00.55.51:371][ 83]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/P_electricity_arc34BF73054CB4FA6D66BC61B8708410B8.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/ExampleContent/Effects/ParticleSystems/P_electricity_arc.uasset'
+[2018.02.15-00.55.51:374][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/ExampleContent/Effects/ParticleSystems/P_electricity_arc.uasset
+[2018.02.15-00.55.57:223][777]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.15-00.55.57:242][777]Candidate modules for hot reload:
+[2018.02.15-00.55.57:242][777]  BatteryCollector
+[2018.02.15-00.55.57:242][777]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 4025 Win64 Development -editorrecompile -canskiplink "D:/Unreal/Unreal_Projects/BatteryCollector/BatteryCollector.uproject" ]
+[2018.02.15-00.55.57:248][777]Warning: Starting HotReload took  0.1s.
+[2018.02.15-00.56.13:374][659]LogSavePackage: Save=16.50ms
+[2018.02.15-00.56.13:374][659]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/P_electricity_arcA271876943E88FD1C897B8BA86A9A6C1.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/ExampleContent/Effects/ParticleSystems/P_electricity_arc.uasset'
+[2018.02.15-00.56.13:376][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/ExampleContent/Effects/ParticleSystems/P_electricity_arc.uasset
+[2018.02.15-00.58.26:996][596]CompilerResultsLog: New page: Compilation - Feb 14, 2018, 10:58:26 AM
+[2018.02.15-00.58.26:996][596]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.15-00.58.26:996][596]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.02.15-00.58.26:996][596]CompilerResultsLog: BatteryCollectorGameMode.cpp
+[2018.02.15-00.58.26:996][596]CompilerResultsLog: [2/3] Link UE4Editor-BatteryCollector-4025.dll
+[2018.02.15-00.58.26:996][596]CompilerResultsLog: [3/3] Link UE4Editor-BatteryCollector-4025.lib
+[2018.02.15-00.58.26:996][596]CompilerResultsLog:    Creating library D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-4025.lib and object D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-4025.exp
+[2018.02.15-00.58.26:996][596]CompilerResultsLog:    Creating library D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-4025.suppressed.lib and object D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-4025.suppressed.exp
+[2018.02.15-00.58.26:996][596]CompilerResultsLog: Total build time: 149.20 seconds (Local executor: 148.01 seconds)
+[2018.02.15-00.58.26:996][596]LogMainFrame: MainFrame: Module compiling took 149.774 seconds
+[2018.02.15-00.58.27:064][596]LogClass: EBatteryPlayState HotReload.
+[2018.02.15-00.58.27:067][596]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2018.02.15-00.58.27:176][596]LogClass: constructed
+[2018.02.15-00.58.27:177][596]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2018.02.15-00.58.27:341][596]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0007 seconds. Added 5 classes and 2 folders.
+[2018.02.15-00.58.27:343][596]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2018.02.15-00.58.27:665][596]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2372 classes and 527 folders.
+[2018.02.15-00.58.27:706][596]Display: HotReload took 150.5s.
+[2018.02.15-00.58.46:101][921]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.15-00.58.46:117][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.15-00.58.46:117][921]PIE: New page: PIE session: CollectionLevel (Feb 14, 2018, 10:58:46 AM)
+[2018.02.15-00.58.46:117][921]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.02.15-00.58.46:135][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018135s)
+[2018.02.15-00.58.46:136][921]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.02.15-00.58.46:136][921]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.02.15-00.58.46:136][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.019439s)
+[2018.02.15-00.58.46:185][921]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.15-00.58.46:219][921]LogInit: FAudioDevice initialized.
+[2018.02.15-00.58.46:253][921]LogLoad: Game class is 'GameMode_BP_C'
+[2018.02.15-00.58.46:253][921]LogClass: constructed
+[2018.02.15-00.58.46:255][921]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 60) at 2018.02.14-17.58.46
+[2018.02.15-00.58.46:255][921]LogWorld: Bringing up level for play took: 0.001347
+[2018.02.15-00.58.46:258][921]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.713
+[2018.02.15-00.58.48:926][ 80]LogClass: about to collect
+[2018.02.15-00.58.48:927][ 80]LogClass: collected
+[2018.02.15-00.58.49:912][139]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.58.50:726][188]LogClass: about to collect
+[2018.02.15-00.58.50:726][188]LogClass: collected
+[2018.02.15-00.58.51:710][247]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.58.53:260][340]LogClass: about to collect
+[2018.02.15-00.58.53:260][340]LogClass: collected
+[2018.02.15-00.58.53:260][340]LogClass: about to collect
+[2018.02.15-00.58.53:260][340]LogClass: collected
+[2018.02.15-00.58.53:260][340]LogClass: about to collect
+[2018.02.15-00.58.53:260][340]LogClass: collected
+[2018.02.15-00.58.54:244][399]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.58.54:244][399]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.58.54:244][399]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.58.55:127][452]LogClass: about to collect
+[2018.02.15-00.58.55:127][452]LogClass: collected
+[2018.02.15-00.58.56:111][511]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.58.58:310][643]LogClass: about to collect
+[2018.02.15-00.58.58:310][643]LogClass: collected
+[2018.02.15-00.58.59:295][702]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.00:310][763]LogClass: about to collect
+[2018.02.15-00.59.00:310][763]LogClass: collected
+[2018.02.15-00.59.00:310][763]LogClass: about to collect
+[2018.02.15-00.59.00:311][763]LogClass: collected
+[2018.02.15-00.59.00:311][763]LogClass: about to collect
+[2018.02.15-00.59.00:311][763]LogClass: collected
+[2018.02.15-00.59.01:295][822]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.01:295][822]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.01:295][822]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.12:444][491]LogClass: about to collect
+[2018.02.15-00.59.12:444][491]LogClass: collected
+[2018.02.15-00.59.12:444][491]LogClass: about to collect
+[2018.02.15-00.59.12:444][491]LogClass: collected
+[2018.02.15-00.59.12:444][491]LogClass: about to collect
+[2018.02.15-00.59.12:444][491]LogClass: collected
+[2018.02.15-00.59.12:444][491]LogClass: about to collect
+[2018.02.15-00.59.12:444][491]LogClass: collected
+[2018.02.15-00.59.12:444][491]LogClass: about to collect
+[2018.02.15-00.59.12:444][491]LogClass: collected
+[2018.02.15-00.59.13:428][550]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.13:428][550]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.13:428][550]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.13:428][550]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.13:429][550]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.13:494][554]LogClass: about to collect
+[2018.02.15-00.59.13:494][554]LogClass: collected
+[2018.02.15-00.59.13:494][554]LogClass: about to collect
+[2018.02.15-00.59.13:495][554]LogClass: collected
+[2018.02.15-00.59.14:478][613]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.14:478][613]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.16:112][711]LogClass: about to collect
+[2018.02.15-00.59.16:113][711]LogClass: collected
+[2018.02.15-00.59.16:113][711]LogClass: about to collect
+[2018.02.15-00.59.16:113][711]LogClass: collected
+[2018.02.15-00.59.17:095][770]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.17:095][770]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.18:045][827]LogClass: about to collect
+[2018.02.15-00.59.18:045][827]LogClass: collected
+[2018.02.15-00.59.18:045][827]LogClass: about to collect
+[2018.02.15-00.59.18:045][827]LogClass: collected
+[2018.02.15-00.59.18:695][866]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-634.92 Y=58.37 Z=0.00 Location: X=57.49 Y=-2.61 Z=320.13 Normal: X=-0.45 Y=-0.61 Z=0.65 PenetrationDepth:17.223 Actor:Battery_BP_C_11 Component:PickupMesh BoneName:None (0 other events since notify)
+[2018.02.15-00.59.18:978][883]LogClass: about to collect
+[2018.02.15-00.59.18:978][883]LogClass: collected
+[2018.02.15-00.59.18:978][883]LogClass: about to collect
+[2018.02.15-00.59.18:978][883]LogClass: collected
+[2018.02.15-00.59.19:028][886]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.19:029][886]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.19:962][942]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.19:962][942]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.20:278][961]LogClass: about to collect
+[2018.02.15-00.59.20:278][961]LogClass: collected
+[2018.02.15-00.59.20:278][961]LogClass: about to collect
+[2018.02.15-00.59.20:278][961]LogClass: collected
+[2018.02.15-00.59.21:262][ 20]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.21:262][ 20]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.21:728][ 48]LogClass: about to collect
+[2018.02.15-00.59.21:728][ 48]LogClass: collected
+[2018.02.15-00.59.22:712][107]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.22:745][109]LogClass: about to collect
+[2018.02.15-00.59.22:745][109]LogClass: collected
+[2018.02.15-00.59.22:745][109]LogClass: about to collect
+[2018.02.15-00.59.22:745][109]LogClass: collected
+[2018.02.15-00.59.23:729][168]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-00.59.23:729][168]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.00.29:342][358]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Kevan/Music/SoundFX/Electric.wav)
+[2018.02.15-01.00.29:356][358]LogAudioDerivedData: Display: Building compressed audio format OGG wave Electric...
+[2018.02.15-01.00.29:595][358]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/FX/Electric.Electric.
+[2018.02.15-01.00.48:294][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel" FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/Maps/CollectionLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.15-01.00.48:442][469]LogSavePackage: Save=129.16ms
+[2018.02.15-01.00.48:442][469]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/CollectionLevel4F7258B547220C38ABF6D7838093FD1A.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2018.02.15-01.00.48:445][469]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/Maps/CollectionLevel.umap
+[2018.02.15-01.00.48:464][469]LogFileHelpers: Saving map 'CollectionLevel' took 0.234
+[2018.02.15-01.00.48:467][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel_BuiltData" FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset" SILENT=true
+[2018.02.15-01.00.48:743][469]LogSavePackage: Save=267.25ms
+[2018.02.15-01.00.48:743][469]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/CollectionLevel_BuiltDataF4851B0E4B0036CFD3D6CA8CB058AB15.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2018.02.15-01.00.48:746][469]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset
+[2018.02.15-01.00.48:757][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX/Electric" FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/Audio/FX/Electric.uasset" SILENT=true
+[2018.02.15-01.00.48:762][469]LogSavePackage: Save=3.77ms
+[2018.02.15-01.00.48:762][469]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/ElectricAEA8BF914C05DC7660165581F3F7999F.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/Audio/FX/Electric.uasset'
+[2018.02.15-01.00.48:765][469]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/Audio/FX/Electric.uasset
+[2018.02.15-01.02.41:264][ 82]LogCascade: Quitting Cascade. FXSystem=0x0000026834F6A700
+[2018.02.15-01.05.19:409][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/PowerCollection" FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/PowerCollection.uasset" SILENT=true
+[2018.02.15-01.05.19:415][102]LogSavePackage: Save=4.95ms
+[2018.02.15-01.05.19:415][102]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/PowerCollectionD30B54B840C1E83E85021D8598DFCEAA.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/PowerCollection.uasset'
+[2018.02.15-01.05.19:418][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/PowerCollection.uasset
+[2018.02.15-01.05.20:293][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/PowerCollection" FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/PowerCollection.uasset" SILENT=true
+[2018.02.15-01.05.20:304][154]LogSavePackage: Save=5.42ms
+[2018.02.15-01.05.20:304][154]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/PowerCollection2BE1EB4D4FF3631DCBDBCBB92154A542.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/PowerCollection.uasset'
+[2018.02.15-01.05.20:305][154]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/PowerCollection.uasset
+[2018.02.15-01.05.33:682][940]LogClass: constructed
+[2018.02.15-01.05.38:852][231]LogClass: constructed
+[2018.02.15-01.08.24:404][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/PowerCollection" FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/PowerCollection.uasset" SILENT=true
+[2018.02.15-01.08.24:412][207]LogSavePackage: Save=4.48ms
+[2018.02.15-01.08.24:412][207]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/PowerCollection22F74F7C4462FD6D1B96A688CCA1CD49.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/PowerCollection.uasset'
+[2018.02.15-01.08.24:413][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/PowerCollection.uasset
+[2018.02.15-01.11.02:999][342]LogEditorTransaction: Undo Move Node
+[2018.02.15-01.11.03:383][363]LogEditorTransaction: Undo Add Node
+[2018.02.15-01.11.03:863][390]LogEditorTransaction: Undo Move Node
+[2018.02.15-01.11.04:374][419]LogEditorTransaction: Undo Move Node
+[2018.02.15-01.11.04:836][445]LogEditorTransaction: Undo Add Node
+[2018.02.15-01.12.50:644][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Battery_BP" FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/Battery_BP.uasset" SILENT=true
+[2018.02.15-01.12.50:682][674]LogSavePackage: Save=33.55ms
+[2018.02.15-01.12.50:682][674]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/Battery_BP176C7B02466C8708BE1D1F982177931D.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/Battery_BP.uasset'
+[2018.02.15-01.12.50:685][674]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/Battery_BP.uasset
+[2018.02.15-01.12.51:434][719]BlueprintLog: New page: Compile Battery_BP
+[2018.02.15-01.12.57:247][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.15-01.12.57:263][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.15-01.12.57:264][ 48]PIE: New page: PIE session: CollectionLevel (Feb 14, 2018, 11:12:57 AM)
+[2018.02.15-01.12.57:264][ 48]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.02.15-01.12.57:268][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004655s)
+[2018.02.15-01.12.57:269][ 48]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.02.15-01.12.57:269][ 48]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2018.02.15-01.12.57:269][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.005724s)
+[2018.02.15-01.12.57:289][ 48]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.15-01.12.57:323][ 48]LogInit: FAudioDevice initialized.
+[2018.02.15-01.12.57:358][ 48]LogLoad: Game class is 'GameMode_BP_C'
+[2018.02.15-01.12.57:358][ 48]LogClass: constructed
+[2018.02.15-01.12.57:360][ 48]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 60) at 2018.02.14-18.12.57
+[2018.02.15-01.12.57:360][ 48]LogWorld: Bringing up level for play took: 0.001349
+[2018.02.15-01.12.57:363][ 48]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.181
+[2018.02.15-01.13.01:583][300]LogClass: about to collect
+[2018.02.15-01.13.01:584][300]LogClass: collected
+[2018.02.15-01.13.01:584][300]LogClass: about to collect
+[2018.02.15-01.13.01:584][300]LogClass: collected
+[2018.02.15-01.13.01:584][300]LogClass: about to collect
+[2018.02.15-01.13.01:584][300]LogClass: collected
+[2018.02.15-01.13.02:567][359]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.02:567][359]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.02:567][359]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.04:700][487]LogClass: about to collect
+[2018.02.15-01.13.04:700][487]LogClass: collected
+[2018.02.15-01.13.05:687][546]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.05:700][547]LogClass: about to collect
+[2018.02.15-01.13.05:701][547]LogClass: collected
+[2018.02.15-01.13.06:684][606]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.07:367][647]LogClass: about to collect
+[2018.02.15-01.13.07:367][647]LogClass: collected
+[2018.02.15-01.13.08:351][706]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.09:817][794]LogClass: about to collect
+[2018.02.15-01.13.09:818][794]LogClass: collected
+[2018.02.15-01.13.09:818][794]LogClass: about to collect
+[2018.02.15-01.13.09:818][794]LogClass: collected
+[2018.02.15-01.13.10:706][847]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=193.46 Y=348.30 Z=0.00 Location: X=-24.97 Y=-87.63 Z=328.63 Normal: X=0.76 Y=-0.09 Z=0.64 PenetrationDepth:18.744 Actor:Battery_BP_C_6 Component:PickupMesh BoneName:None (0 other events since notify)
+[2018.02.15-01.13.10:806][853]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.10:806][853]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.10:872][857]LogClass: about to collect
+[2018.02.15-01.13.10:872][857]LogClass: collected
+[2018.02.15-01.13.10:872][857]LogClass: about to collect
+[2018.02.15-01.13.10:872][857]LogClass: collected
+[2018.02.15-01.13.11:857][916]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.11:857][916]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.13:322][  4]LogClass: about to collect
+[2018.02.15-01.13.13:323][  4]LogClass: collected
+[2018.02.15-01.13.14:307][ 63]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.15:806][153]LogClass: about to collect
+[2018.02.15-01.13.15:806][153]LogClass: collected
+[2018.02.15-01.13.15:806][153]LogClass: about to collect
+[2018.02.15-01.13.15:806][153]LogClass: collected
+[2018.02.15-01.13.16:790][212]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.16:790][212]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.17:606][261]LogClass: about to collect
+[2018.02.15-01.13.17:606][261]LogClass: collected
+[2018.02.15-01.13.17:606][261]LogClass: about to collect
+[2018.02.15-01.13.17:606][261]LogClass: collected
+[2018.02.15-01.13.18:590][320]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.18:590][320]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.20:007][405]LogClass: about to collect
+[2018.02.15-01.13.20:007][405]LogClass: collected
+[2018.02.15-01.13.20:990][464]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.21:473][493]LogClass: about to collect
+[2018.02.15-01.13.21:473][493]LogClass: collected
+[2018.02.15-01.13.21:473][493]LogClass: about to collect
+[2018.02.15-01.13.21:473][493]LogClass: collected
+[2018.02.15-01.13.21:473][493]LogClass: about to collect
+[2018.02.15-01.13.21:474][493]LogClass: collected
+[2018.02.15-01.13.22:457][552]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.22:457][552]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.22:457][552]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.24:023][646]LogClass: about to collect
+[2018.02.15-01.13.24:023][646]LogClass: collected
+[2018.02.15-01.13.24:773][691]LogClass: about to collect
+[2018.02.15-01.13.24:773][691]LogClass: collected
+[2018.02.15-01.13.24:773][691]LogClass: about to collect
+[2018.02.15-01.13.24:773][691]LogClass: collected
+[2018.02.15-01.13.25:007][705]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.25:757][750]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.25:757][750]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.26:424][790]LogClass: about to collect
+[2018.02.15-01.13.26:424][790]LogClass: collected
+[2018.02.15-01.13.27:407][849]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.13.36:208][377]LogClass: about to collect
+[2018.02.15-01.13.36:208][377]LogClass: collected
+[2018.02.15-01.13.37:192][436]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.02.15-01.14.00:317][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Battery_BP" FILE="../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/Battery_BP.uasset" SILENT=true
+[2018.02.15-01.14.00:355][760]LogSavePackage: Save=34.36ms
+[2018.02.15-01.14.00:355][760]LogSavePackage: Moving '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Saved/Battery_BP2765A4CB4E064A93BC6DA6A299B1DE8C.tmp' to '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/Battery_BP.uasset'
+[2018.02.15-01.14.00:356][760]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/BluePrints/Battery_BP.uasset
+[2018.02.15-01.14.12:045][452]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.15-01.14.12:220][453]Cmd: QUIT_EDITOR
+[2018.02.15-01.14.12:501][453]LogExit: Preparing to exit.
+[2018.02.15-01.14.13:485][453]LogDirectoryWatcher: A directory notification for 'D:/Unreal/Unreal_Projects/BatteryCollector/Content/' was aborted.
+[2018.02.15-01.14.13:512][453]LogExit: Editor shut down
+[2018.02.15-01.14.13:515][453]LogExit: Transaction tracking system shut down
+[2018.02.15-01.14.13:669][453]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.15-01.14.13:669][453]LogDirectoryWatcher: A directory notification for '../../../../../../Unreal/Unreal_Projects/BatteryCollector/Content/' was aborted.
+[2018.02.15-01.14.13:669][453]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.15-01.14.13:669][453]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.15-01.14.13:669][453]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.15-01.14.13:669][453]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.15-01.14.13:669][453]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.15-01.14.13:740][453]LogExit: Object subsystem successfully closed.
+[2018.02.15-01.14.13:764][453]LogD3D11RHI: Shutdown
+[2018.02.15-01.14.13:764][453]LogD3D11RHI: CleanupD3DDevice
+[2018.02.15-01.14.13:767][453]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.15-01.14.13:774][453]LogModuleManager: Shutting down and abandoning module BatteryCollector (561)
+[2018.02.15-01.14.13:774][453]LogModuleManager: Shutting down and abandoning module DistCurveEditor (560)
+[2018.02.15-01.14.13:774][453]LogModuleManager: Shutting down and abandoning module Cascade (558)
+[2018.02.15-01.14.13:774][453]LogModuleManager: Shutting down and abandoning module SequencerWidgets (556)
+[2018.02.15-01.14.13:774][453]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.02.15-01.14.13:774][453]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.02.15-01.14.13:774][453]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.02.15-01.14.13:774][453]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2018.02.15-01.14.13:774][453]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.02.15-01.14.13:774][453]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.02.15-01.14.13:775][453]LogDirectoryWatcher: A directory notification for 'D:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.02.15-01.14.13:776][453]LogDirectoryWatcher: A directory notification for 'D:/Unreal/Unreal_Projects/BatteryCollector/Content/Collections/' was aborted.
+[2018.02.15-01.14.13:776][453]LogDirectoryWatcher: A directory notification for 'D:/Unreal/Unreal_Projects/BatteryCollector/Content/Developers/Kevan/Collections/' was aborted.
+[2018.02.15-01.14.13:776][453]LogDirectoryWatcher: A directory notification for 'D:/Unreal/Unreal_Projects/BatteryCollector/Saved/Collections/' was aborted.
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.15-01.14.13:776][453]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.15-01.14.13:777][453]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.15-01.14.13:777][453]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.15-01.14.13:777][453]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.15-01.14.13:777][453]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.15-01.14.13:777][453]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.15-01.14.13:777][453]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.15-01.14.13:777][453]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.15-01.14.13:777][453]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.15-01.14.13:777][453]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.15-01.14.13:777][453]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.15-01.14.13:777][453]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.15-01.14.13:820][453]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.15-01.14.13:820][453]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.15-01.14.13:820][453]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.15-01.14.13:820][453]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.15-01.14.13:820][453]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.15-01.14.13:820][453]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.15-01.14.13:820][453]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.15-01.14.13:820][453]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.15-01.14.13:821][453]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.15-01.14.13:876][453]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.15-01.14.13:876][453]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.15-01.14.13:876][453]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.15-01.14.13:876][453]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.15-01.14.13:876][453]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.15-01.14.13:876][453]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.15-01.14.13:876][453]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.15-01.14.13:876][453]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.15-01.14.13:876][453]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.15-01.14.13:876][453]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.15-01.14.13:885][453]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.15-01.14.13:885][453]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.15-01.14.13:885][453]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.15-01.14.13:885][453]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.15-01.14.13:885][453]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.15-01.14.13:885][453]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.15-01.14.13:885][453]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.15-01.14.13:885][453]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.15-01.14.13:885][453]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.15-01.14.13:885][453]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.15-01.14.13:886][453]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.15-01.14.13:886][453]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.15-01.14.13:886][453]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.15-01.14.13:886][453]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.15-01.14.13:886][453]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.15-01.14.13:886][453]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.15-01.14.13:886][453]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.15-01.14.13:886][453]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.15-01.14.13:886][453]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.02.15-01.14.14:089][453]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.02.15-01.14.14:090][453]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.02.15-01.14.14:091][453]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.02.15-01.14.14:091][453]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.02.15-01.14.14:091][453]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.02.15-01.14.14:091][453]LogDirectoryWatcher: A directory notification for 'D:/Unreal/Unreal_Projects/BatteryCollector/Binaries/Win64' was aborted.
+[2018.02.15-01.14.14:092][453]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.15-01.14.14:092][453]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.15-01.14.14:092][453]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.15-01.14.14:092][453]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.15-01.14.14:092][453]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.15-01.14.14:092][453]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.15-01.14.14:092][453]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.15-01.14.14:092][453]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.15-01.14.14:193][453]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.15-01.14.14:294][453]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.15-01.14.14:294][453]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.15-01.14.14:294][453]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.15-01.14.14:294][453]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.15-01.14.14:294][453]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.15-01.14.14:294][453]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.15-01.14.14:295][453]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.15-01.14.14:295][453]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.15-01.14.14:295][453]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.15-01.14.14:295][453]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.15-01.14.14:301][453]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.15-01.14.14:301][453]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.15-01.14.14:302][453]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.15-01.14.14:302][453]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.15-01.14.14:302][453]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.15-01.14.14:302][453]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.15-01.14.14:307][453]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.15-01.14.14:307][453]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.15-01.14.14:307][453]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.15-01.14.14:307][453]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.15-01.14.14:307][453]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.15-01.14.14:307][453]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.15-01.14.14:307][453]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.15-01.14.14:308][453]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.15-01.14.14:308][453]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.15-01.14.14:308][453]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.15-01.14.14:308][453]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.15-01.14.14:308][453]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.15-01.14.14:308][453]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.15-01.14.14:308][453]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.15-01.14.14:308][453]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.15-01.14.14:308][453]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.15-01.14.14:309][453]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.15-01.14.14:309][453]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.15-01.14.14:309][453]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.15-01.14.14:309][453]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.15-01.14.14:309][453]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.15-01.14.14:309][453]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.15-01.14.14:309][453]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.15-01.14.14:309][453]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.15-01.14.14:310][453]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.15-01.14.14:310][453]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.15-01.14.14:310][453]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.15-01.14.14:310][453]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.15-01.14.14:310][453]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.15-01.14.14:310][453]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.15-01.14.14:310][453]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.15-01.14.14:310][453]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.15-01.14.14:310][453]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.15-01.14.14:325][453]LogDerivedDataCache: Shutdown
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.15-01.14.14:325][453]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.15-01.14.14:326][453]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.15-01.14.14:326][453]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.15-01.14.14:326][453]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7755A650-41D1-8D8D-7247-659B992C463D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=9987e1ea43ecf12aefa2e8b4ce4b3963%7C70dc3d6c7774439bb521a8625c5e4bd7%7Cd53256e0-d4a8-4df5-bcad-da4b090144a1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.15-01.14.14:341][453]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.15-01.14.14:342][453]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.15-01.14.14:342][453]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.15-01.14.14:342][453]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.15-01.14.14:342][453]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.15-01.14.14:342][453]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.15-01.14.14:342][453]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.15-01.14.14:342][453]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.15-01.14.14:343][453]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.15-01.14.14:343][453]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.15-01.14.14:343][453]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.15-01.14.14:343][453]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.15-01.14.14:343][453]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.15-01.14.14:343][453]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.15-01.14.14:343][453]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.15-01.14.14:343][453]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.15-01.14.14:343][453]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.15-01.14.14:343][453]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.15-01.14.14:343][453]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.15-01.14.14:347][453]LogExit: Exiting.
+[2018.02.15-01.14.14:357][453]Log file closed, 02/14/18 18:14:14

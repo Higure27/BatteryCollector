@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BatteryCollector-7374.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\BatteryCollector.cpp.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\BatteryCollectorCharacter.cpp.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\BatteryCollectorGameMode.cpp.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\BatteryPickup.cpp.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\PickupManager.cpp.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\SpawnVolume.cpp.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\BatteryCollector.init.gen.cpp.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\BatteryCollectorCharacter.gen.cpp.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\BatteryCollectorGameMode.gen.cpp.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\BatteryPickup.gen.cpp.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\PickupManager.gen.cpp.obj"
+"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\SpawnVolume.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Unreal\Unreal_Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7374.lib"
